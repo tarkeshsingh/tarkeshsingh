@@ -2,7 +2,7 @@
 
 **Assistant Professor** at Penn State University
 
-I research **Neural control of movement**, **cognitive-motor interactions**, and **posture control**. My work focuses on investigating how sensory information from multiple modalities is integrated for generating goal-directed actions.
+I research **neural control of movement**, **cognitive-motor interactions**, and **posture control**. My work focuses on investigating how sensory information from multiple modalities is integrated for generating goal-directed actions.
 
 ---
 
