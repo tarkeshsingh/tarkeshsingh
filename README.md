@@ -30,9 +30,9 @@ I research **Neural control of movement**, **Cognitive-motor interactions**, and
 [![Personal Site](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://hhd.psu.edu/contact/tarkeshwar-singh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tsingh@psu.edu)
 
-<!-- Optional: -->
-<!-- [![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/tarkeshsingh.bsky.social) -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarkeshwar-singh-7057a62a) -->
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/tarkeshsingh.bsky.social) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarkeshwar-singh-7057a62a) 
 
 ---
 
