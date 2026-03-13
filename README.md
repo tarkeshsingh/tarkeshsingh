@@ -1,4 +1,4 @@
-# Hi, I'm [Tarkesh Singh] 👋
+# Hi, I'm Tarkesh Singh 👋
 
 **Assistant Professor** at Penn State University
 
