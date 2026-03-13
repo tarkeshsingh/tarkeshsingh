@@ -1,6 +1,6 @@
 # Hi, I'm [Tarkesh Singh] 👋
 
-**[Assistant Professor]** at Penn State University
+**Assistant Professor** at Penn State University
 
 I research **Neural control of movement**, **Cognitive-motor interactions**, and **Posture control**. My work focuses on investigating how sensory information from multiple modalities is integrated for generating goal-directed actions.
 
