@@ -40,4 +40,4 @@ I research **neural control of movement**, **cognitive-motor interactions**, and
 
 - **Smooth pursuit eye movements contribute to long-latency reflex modulation in the lower extremity** — *Journal of Neurophysiology, 2025* — [DOI](https://doi.org/10.1152/jn.00023.20)
 - **Age-related deficits in rapid visuomotor decision-making** — *Journal of Neurophysiology, 2021* — [DOI](https://doi.org/10.1152/jn.00073.202)
-- **[Eye movements interfere with limb motor control in stroke survivors]** — *Neurorehabilitation and Neural Repair, 2018* — [DOI](https://doi.org/10.1177/1545968318790016)
+- **Eye movements interfere with limb motor control in stroke survivors** — *Neurorehabilitation and Neural Repair, 2018* — [DOI](https://doi.org/10.1177/1545968318790016)
