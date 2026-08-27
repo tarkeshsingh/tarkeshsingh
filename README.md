@@ -9,7 +9,7 @@ I research **neural control of movement**, **cognitive-motor interactions**, and
 ### 🔬 Current Projects
 
 - **Motion in action** — In this project, we aim to understand how multisensory inputs are integrated for posture stabilization and action execution during interactions with moving objects
-- **Chunking_to_Coarticulation** — In this project, we are probing the mechanisms of how cognition facilitates and disrupts sensorimotor integration for execution of movement sequences
+- **Chunking to Coarticulation** — In this project, we are probing the mechanisms of how cognition facilitates and disrupts sensorimotor integration for execution of movement sequences
 
 ---
 
